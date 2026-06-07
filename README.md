@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Detailed loan planner displaying compound payments over time.
+  name: loan-mortgage-calculator version: 1.0 type: Repository author: VarshuAi description: >   Detailed loan planner displaying compound payments over time. primary_tech: CSS
 primary_tech: CSS
 ```
 
